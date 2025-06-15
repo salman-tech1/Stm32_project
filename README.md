@@ -1,7 +1,7 @@
-#Nsumo 
+# Nsumo 
 This repositor is just for testing purpose as i am a complete beginner in github so i am just testing this repository 
 
-##Directory Structure 
+## Directory Structure 
 The directory structure is based on the pitch fork pattern 
 | Directory    | Description                                                  |
 |--------------|--------------------------------------------------------------|
